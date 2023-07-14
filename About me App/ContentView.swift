@@ -29,9 +29,9 @@ struct ContentView: View {
                 .padding()
                 .buttonStyle(.bordered)
                 //.background(.purple)
-                if showFact == true {
-                    Text("I turn 16 on 7/14")
-                }
+                //if showFact == true {
+                   // Text("I turn 16 on 7/14")
+                //}
             }
             .padding()
         }
